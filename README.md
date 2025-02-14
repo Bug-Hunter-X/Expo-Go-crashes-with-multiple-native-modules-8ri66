@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Expo Go where the app crashes or becomes unresponsive when an app uses multiple native modules. The bug is reproduced by adding a large number of native modules to the project. A solution is also provided by using Expo managed workflow or EAS build.
