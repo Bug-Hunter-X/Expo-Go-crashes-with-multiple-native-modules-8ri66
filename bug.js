@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Go app to test an app that uses a lot of native modules.  The app may crash or become unresponsive. This is because Expo Go has limitations in handling native modules, especially when they are complex or require significant resources.
